@@ -1,16 +1,16 @@
 ## Hi there 👋
 
 **Name** - Sunghyun Kim  
-**Name2** - Ahras
+**Nickname** - Ahras
 
-**Born** - 01.26.2001  
-**Univ** - Yeungnam University  
+**Birth** - Jan 26, 2001  
+**Education** - Yeungnam University  
 **Major** - Computer Engineering
 
-**Tech Stack** - C, Java  
+**Languages** - C, Java  
 **Interested In** - UI/UX
 
-**Hobby** - Movie, Anime
+**Hobbies** - Watching Movies & Anime
 
 **Email** - sh107206@naver.com  
 **Blog** - 
