@@ -2,7 +2,7 @@
 
 **Name** - Sunghyun Kim  
 **Nickname** - Ahras  
-**Birth** - Jan 26, 2001
+**Birth** - Jan 26
 
 **Education** - Yeungnam University  
 **Major** - Computer Engineering
@@ -11,6 +11,8 @@
 **Interested In** - UI/UX
 
 **Hobbies** - Watching Movies & Anime
+
+**IM INTO SNKRS**
 
 **Email** - sh107206@naver.com  
 **Blog** - 
