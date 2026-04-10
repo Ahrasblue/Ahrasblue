@@ -2,7 +2,7 @@
 
 **Name** - Sunghyun Kim  
 **Nickname** - Ahras  
-**Birth** - Jan 26
+**Birthday** - Jan 26
 
 **Education** - Yeungnam University  
 **Major** - Computer Engineering
