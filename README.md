@@ -10,7 +10,7 @@
 **Languages** - C, Java  
 **Interested In** - UI/UX
 
-**Hobbies** - Watching Movies & Anime
+**Hobbies** - Movies, Manga, and Classic Literature
 
 **IM INTO SNKRS**
 
