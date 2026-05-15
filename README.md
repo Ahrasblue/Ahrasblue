@@ -7,7 +7,7 @@
 **Education** - Yeungnam University  
 **Major** - Computer Engineering
 
-**Languages** - `C`, `Java` 
+**Languages** - `C`, `Java`  
 **Interested In** - UI/UX
 
 **Hobbies** - Movie, Manga, and Classic Literature
