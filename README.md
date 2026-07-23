@@ -10,7 +10,7 @@
 **Languages** - `C`, `Java`  
 **Interested In** - UI/UX
 
-**Hobbies** - Movie, Manga, and Classic Literature
+**Hobbies** - Movie, Manga, Game, and Classic Literature
 
 **IM INTO SNKRS**
 
